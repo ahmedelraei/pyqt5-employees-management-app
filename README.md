@@ -1,3 +1,3 @@
 # pyqt5-employees-management-app
  
-## Version made in Tkinter
+## Version 1 made in Tkinter
