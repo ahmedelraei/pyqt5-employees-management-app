@@ -1,0 +1,4 @@
+Code   : 3234
+Name   : afasfas
+Address: 3434sadas
+Salary : 423423
